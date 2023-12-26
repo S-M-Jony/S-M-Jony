@@ -9,11 +9,15 @@ Welcome to my professional journey! 👋 I'm S M Jabbaruzzaman Jony, a dedicated
 🌐 Web Development: The digital landscape is my playground, and I specialize in crafting robust and responsive web solutions. Proficient in HTML, CSS, JavaScript, React and more, I leverage cutting-edge technologies to build websites that seamlessly blend aesthetics with functionality.
 
 💼 Professional Highlights:
-• Developed iOS apps CricArena, Journal, Sound Stream, Health Compass and more.
-• Designed and implemented responsive web solutions for Brain Box ,Covid Lense , EduPulse and 
- more.
-• Adept at collaborating with cross-functional teams to ensure the success of projects from inception 
- to deployment.
+• Developed iOS apps CricArena, Journal, Sound Stream, Health 
+  Compass and more.
+
+• Designed and implemented responsive web solutions for Brain 
+   Box ,Covid Lense , EduPulse and more.
+
+• Adept at collaborating with cross-functional teams to ensure 
+   the success of projects from inception 
+   to deployment.
 
 🔧 Tech Stack: 
  iOS: Swift, UIKit, SwiftUI 
