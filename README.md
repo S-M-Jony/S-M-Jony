@@ -26,10 +26,9 @@ Welcome to my professional journey! 👋 I'm S M Jabbaruzzaman Jony, a dedicated
 📈 Always Learning: In the dynamic world of tech, continuous learning is my mantra. I stay abreast of the latest industry trends and technologies to ensure my skills remain at the forefront.
 
 🤝 Let's Connect: I'm excited about the possibilities that lie at the intersection of iOS app development and web technologies. If you share a passion for creating exceptional digital experiences or have a project in mind, let's connect! Open to collaboration, networking, and new opportunities.
-
-📧 smjony@stud.cou.ac.bd
-🌐 https://github.com/S-M-Jony
-📲 +8801764320229
+<h4>📧 smjony@stud.cou.ac.bd </h4>
+<h4>🌐 https://github.com/S-M-Jony </h4>
+<h4>📲 +8801764320229 </h4>
 
 Let's shape the future of digital experiences together! 🌟
 
