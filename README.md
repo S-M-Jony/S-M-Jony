@@ -12,8 +12,10 @@ Welcome to my professional journey! 👋 I'm S M Jabbaruzzaman Jony, a dedicated
 <ul>
   • Developed iOS apps CricArena, Journal, Sound Stream, Health 
   Compass and more.
+  
 • Designed and implemented responsive web solutions for Brain 
    Box ,Covid Lense , EduPulse and more.
+   
 • Adept at collaborating with cross-functional teams to ensure 
    the success of projects from inception 
    to deployment.
